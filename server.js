@@ -61,7 +61,7 @@ console.log("test:",Api.a)
 
 
 
-const port = 80;  //digital ocean
+const port = 80;  //   DO  digital ocean
 //const port = 1880;  //OliMih
 
 
